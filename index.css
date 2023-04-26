@@ -1,0 +1,30 @@
+*{
+    font-family: 'Caveat', cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background:wheat
+}
+h1{
+    font-size: 56px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    border-bottom:grey;
+}
+p{
+    font-size: 35px;
+
+}
+.dara{
+    display: flex;
+    gap: 2rem;
+    padding-top: 2rem;
+    align-items: center;
+}
+.image{
+    width: 90%;
+}
