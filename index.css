@@ -17,11 +17,12 @@ h2{
 }
 p{
     font-size: 35px;
+    color: black;
 
 }
 .dara{
     display: flex;
-    gap: 2rem;
+    gap: 10rem;
     padding-top: 2rem;
     align-items: center;
 }
